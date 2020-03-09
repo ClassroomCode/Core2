@@ -1,1 +1,1 @@
-# Core2
+# ASP.NET Core 2.1
